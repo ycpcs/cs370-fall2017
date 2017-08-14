@@ -7,9 +7,9 @@ title: "Final Project: Think Inside the Box!"
 
 **Milestone 1: Thursday, Oct 19th by 12:30/2:00 PM**  10% - This milestone should demonstrate the basic geometry of the scene (placeholder objects can be used where more complex objects will eventually be located). An orthographic "birds-eye" view is acceptable at this point to see the entire room.
 
-**Milestone 2: Tuesday, Nov 21st by 12:30/2:00 PM**  15% - This milestone should contain most of the geometry that will appear in the final scene. First person camera controls should allow movement throughout the room (but not necessarily with collision detection). Lighting effects should be present.
+**Milestone 2: Tuesday, Nov 21st by 12:30/2:00 PM**  10% - This milestone should contain most of the geometry that will appear in the final scene. First person camera controls should allow movement throughout the room (but not necessarily with collision detection). Lighting effects should be present.
 
-**Final Presentation: ** 75% - Please bring your project on a flash drive (as it may be rather large depending on the number of textures used) and turn it in during class. [HERE ARE INSTRUCTIONS FOR COPYING YOUR PROJECT TO A USB DRIVE.](ProjectSubmit.html) Late assignments will **NOT** be accepted.
+**Final Presentation: ** 80% - Please bring your project on a flash drive (as it may be rather large depending on the number of textures used) and turn it in during class. [HERE ARE INSTRUCTIONS FOR COPYING YOUR PROJECT TO A USB DRIVE.](ProjectSubmit.html) Late assignments will **NOT** be accepted.
 
 **Evaluation Form** Word document for the project can be found [here](CS370_Final_Project_eval.docx).
 
