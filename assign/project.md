@@ -9,7 +9,7 @@ title: "Final Project: Think Inside the Box!"
 
 **Milestone 2: Tuesday, Nov 21st by 12:30/2:00 PM**  15% - This milestone should contain most of the geometry that will appear in the final scene. First person camera controls should allow movement throughout the room (but not necessarily with collision detection). Lighting effects should be present.
 
-**Final Presentation: ** 75% - Please bring your project on a flash drive (as it may be rather large depending on the number of textures used) and turn it in during class. [HERE ARE INSTRUCTIONS FOR CREATING THE CD.](ProjectSubmit.html) Late assignments will **NOT** be accepted.
+**Final Presentation: ** 75% - Please bring your project on a flash drive (as it may be rather large depending on the number of textures used) and turn it in during class. [HERE ARE INSTRUCTIONS FOR COPYING YOUR PROJECT TO A USB DRIVE.](ProjectSubmit.html) Late assignments will **NOT** be accepted.
 
 **Evaluation Form** Word document for the project can be found [here](CS370_Final_Project_eval.docx).
 
@@ -115,7 +115,7 @@ To quit the program simply close the window.
 Submitting
 ==========
 
-**DO NOT** submit the project through Marmoset. Instead be sure to bring a CD with the project to class on Dec 12 (the final exam period).
+**DO NOT** submit the project through Marmoset. Instead be sure to bring a USB drive with the project to class during the final exam period.
 
 **You are responsible for making sure that your submission contains the correct file(s).**
 
