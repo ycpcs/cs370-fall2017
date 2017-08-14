@@ -99,11 +99,9 @@ Please check the [course web page](<http://ycpcs.github.io/cs370-fall2016/>), re
 
 You must receive a score of 70+ on *at least one* exam to earn a passing grade for the course.
 
-### Reading Assignments and Quizzes
+### Reading Assignments
 
-Reading assignments are posted on the [course schedule](schedule/index.html). I expect you to do the reading **before** class. Class time will be for asking questions about parts of the reading you did not understand to your satisfaction.
-
-There will be daily quizzes based on the reading assignment and previous class material. The quizzes will be administered at the **beginning** of each class, thus it is important to be prompt for class. The quizzes are designed to lead into brief discussions of the class period's topic, such that the majority of the time can focus on completing the lab.
+Reading assignments are posted on the [course schedule](schedule/index.html). I expect you to do the reading **before** class. Class time will be for asking questions about parts of the reading you did not understand to your satisfaction and working on the lab activity. The class format will consist of a brief discussions of the day's topic, such that the majority of the time can focus on completing the corresponding lab.
 
 ### Homework assignments
 
