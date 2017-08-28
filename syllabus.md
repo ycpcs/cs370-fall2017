@@ -10,8 +10,8 @@ CS 370 - Computer Graphics Programming I
 
 Class times:
 
-- Section 101, T/Th 12:30 - 1:45PM in KEC 123
-- Section 102, T/Th 2:00  - 3:15PM in KEC 123
+- Section 101, T/Th 12:30 - 1:45PM in KEC 130
+- Section 102, T/Th 2:00  - 3:15PM in KEC 130
 
 Instructor:
 
