@@ -20,7 +20,7 @@ All information about the course will be posted here.
 
 * **Aug 29** - Welcome back!
 * **Sept 14** - [Assignment 1](assign/assign01.html)  (Don Quixote) Due.
-* **Oct 2** - [Assignment 2](assign/assign02.html) (Rollin Train) Due.
+* **Sept 28**/**Oct 2** - [Assignment 2](assign/assign02.html) (Rollin Train) Due.
 * **Oct 3 - EXAM I**
 * **Oct 17** - NO CLASS - Fall Break.
 * **Oct 19** - [FINAL PROJECT](assign/project.html), Milestone 1 Demo.
