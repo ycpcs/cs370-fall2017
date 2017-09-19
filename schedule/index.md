@@ -21,8 +21,8 @@ OP: [OpenGL: A Primer – 3rd Edition.](http://www.pearsonhighered.com/educator/
 > Sept 19  | [Lab 9: Time-based Animation and Fonts](../labs/lab09.html) |  | [CS370_Lab09.zip](../labs/src/CS370_Lab09.zip)
 > Sept 21  | [Lab 10: Basic GLSL I](../labs/lab10.html) | OPG: Ch. 2 <br /> OP: Ch. 10 | [CS370_Lab10.zip](../labs/src/CS370_Lab10.zip)
 > Sept 26  | [Lab 11: Basic GLSL II](../labs/lab11.html)  |  | [CS370_Lab11.zip](../labs/src/CS370_Lab11.zip)
-> Sept 28  | Exam Review | |
-> Oct 3    | **EXAM I** <br /> **Assignment 2 Due** | |
+> Sept 28  | Exam Review **Assignment 2 Written Due** | |
+> Oct 3    | **EXAM I** <br /> **Assignment 2 Program Due 10/2** | |
 > Oct 5    | [Lab 12: Basic Lighting](../labs/lab12.html) <br /> [Lab 13: Light Sources](../labs/lab13.html) | OPG: Ch. 7 <br /> OP: Ch. 6 | [CS370_Lab12.zip](../labs/src/CS370_Lab12.zip) <br /> [CS370_Lab13.zip](../labs/src/CS370_Lab13.zip)
 > Oct 10   | [Lab 14: Recursive Subdivision](../labs/lab14.html) |  | [CS370_Lab14.zip](../labs/src/CS370_Lab14.zip)
 > Oct 12   | [Lab 15: Simple Shadows](../labs/lab15.html)  |  | [CS370_Lab15.zip](../labs/src/CS370_Lab15.zip)
