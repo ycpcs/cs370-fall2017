@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 2: Train Kept A Rollin' (hopefully not all night long)"
 ---
 
-**Written Questions Due: Tuesday, Oct 3rd by 12:30/2:00 PM** (in class)
+**Written Questions Due: Thursday, Sept 28th by 12:30/2:00 PM** (in class)
 
 **Program Due: Monday, Oct 2nd by 11:59 PM** Late assignments will be penalized 20 points per day.
 

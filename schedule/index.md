@@ -17,13 +17,13 @@ OP: [OpenGL: A Primer – 3rd Edition.](http://www.pearsonhighered.com/educator/
 > Sept 5   | [Lab 4: Affine Transformations I](../labs/lab04.html) <br /> [Lab 5: Affine Transformations II](../labs/lab05.html)|   | [CS370_Lab04.zip](../labs/src/CS370_Lab04.zip) <br /> [CS370_Lab05.zip](../labs/src/CS370_Lab05.zip)
 > Sept 7   | [Lab 6: User Interaction and Animation](../labs/lab06.html) | OP: Ch. 3 | [CS370_Lab06.zip](../labs/src/CS370_Lab06.zip)
 > Sept 12  | [Lab 7: 3D Orthographic Projection](../labs/lab07.html) | OPG: Ch. 5 <br /> OP: Ch. 4 | [CS370_Lab07.zip](../labs/src/CS370_Lab07.zip) 
-> Sept 14  | [Lab 8: 3D Perspective Projection](../labs/lab08.html) <br /> **UPDATE: Assignment 1 Due** |  | [CS370_Lab08.zip](../labs/src/CS370_Lab08.zip)
+> Sept 14  | [Lab 8: 3D Perspective Projection](../labs/lab08.html) <br /> **Assignment 1 Due** |  | [CS370_Lab08.zip](../labs/src/CS370_Lab08.zip)
 > Sept 19  | [Lab 9: Time-based Animation and Fonts](../labs/lab09.html) |  | [CS370_Lab09.zip](../labs/src/CS370_Lab09.zip)
 > Sept 21  | [Lab 10: Basic GLSL I](../labs/lab10.html) | OPG: Ch. 2 <br /> OP: Ch. 10 | [CS370_Lab10.zip](../labs/src/CS370_Lab10.zip)
-> Sept 26  | [Lab 11: Basic GLSL II](../labs/lab11.html) <br /> **Assignment 2 Due** |  | [CS370_Lab11.zip](../labs/src/CS370_Lab11.zip)
-> Sept 28  | **EXAM I** | |
-> Oct 3    | [Lab 12: Basic Lighting](../labs/lab12.html) | OPG: Ch. 7 <br /> OP: Ch. 6 | [CS370_Lab12.zip](../labs/src/CS370_Lab12.zip)
-> Oct 5    | [Lab 13: Light Sources](../labs/lab13.html) |  | [CS370_Lab13.zip](../labs/src/CS370_Lab13.zip)
+> Sept 26  | [Lab 11: Basic GLSL II](../labs/lab11.html)  |  | [CS370_Lab11.zip](../labs/src/CS370_Lab11.zip)
+> Sept 28  | Exam Review | |
+> Oct 3    | **EXAM I** <br /> **Assignment 2 Due** | |
+> Oct 5    | [Lab 12: Basic Lighting](../labs/lab12.html) <br /> [Lab 13: Light Sources](../labs/lab13.html) | OPG: Ch. 7 <br /> OP: Ch. 6 | [CS370_Lab12.zip](../labs/src/CS370_Lab12.zip) <br /> [CS370_Lab13.zip](../labs/src/CS370_Lab13.zip)
 > Oct 10   | [Lab 14: Recursive Subdivision](../labs/lab14.html) |  | [CS370_Lab14.zip](../labs/src/CS370_Lab14.zip)
 > Oct 12   | [Lab 15: Simple Shadows](../labs/lab15.html)  |  | [CS370_Lab15.zip](../labs/src/CS370_Lab15.zip)
 > Oct 17   | **NO CLASS - Fall Break** | |
