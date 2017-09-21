@@ -3,6 +3,17 @@ layout: default
 title: "Lab 10: Basic GLSL I - Using Shaders"
 ---
 
+All vertices passed into the graphics card are processed by a multi-stage *graphics pipeline*. The graphics pipeline is optimized to process *graphics* (as opposed to a more general purpose computing pipeline such as on the CPU) which provides a great deal of efficiency and program simplicity at the expense of a limited number of operations. As a graphics programmer, it will be your task to utilize the pipeline to do as much work as possible on the graphics card rather than on the CPU. This pipeline consists of four primary *stages* as shown in the figure below:
+
+> ![image](images/lab10/pipeline.png)
+
+-   **Vertex Processor** (programmable) - performs coordinate transformations (and relative camera position) and assigns vertex colors
+-   **Clipping and Primative Assembler** - creates primatives from vertices and adjusts primatives for only those which *may* appear in the final rendered scene (*clipping* the rest)
+-   **Rasterization** - converts 3D primatives into *potential* 2D pixel objects known as *fragments*
+-   **Fragment Processor** (programmable) - determines which pixels appear in the final scene (i.e. are written to the framebuffer) and applies pixel level effects such as bump mapping, texture mapping, blending, etc.
+
+In modern hardware, the vertex and fragment prcessors are now *programmable* via *shaders* to allow the programmer to modify the default processing behavior of these stages. Thus it is important to understand which operations are performed at each stage so that one can properly modify this behavior if desired to produce more advanced effects.
+
 Modern graphics hardware supports programmable *vertex* and/or *fragment* (*pixel*) shaders (with current hardware also including programmable *geometry* shaders) and the most recent graphics API's (e.g. DirectX 11 and OpenGL 4.3) work *exclusively* via shaders. Shaders provide the functionality to produce many additional effects that are not possible with the default (fixed) pipeline capabilities. In particular, we can perform non-linear transformations in the vertex processor (i.e. *morphing*) and adjust the vertex normals based on a *normal map* applied in both the vertex and fragment processors to use a slightly modified lighting model (i.e. *bump mapping*). Most of the advanced rendering techniques involve writing *shaders* (i.e. graphics card programs) to manipulate the vertices in a particular fashion or modify the pixel colors on a per fragment basis. There are numerous shader languages available including GLSL for OpenGL, HLSL for DirectX, Cg for nVidia hardware, etc. and are typically similar to C/Java syntax. We will focus on GLSL using the [GLEW library](http://glew.sourceforge.net/) (which exposes the GLSL functionality in the older OpenGL version included with Windows). In this lab we will see how to load shaders from files and *use* them from within our programs.
 
 0\. Getting Started
