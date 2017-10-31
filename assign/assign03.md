@@ -3,7 +3,7 @@ layout: default
 title: "Assignment 3: Limelight"
 ---
 
-**Written Questions Due: Thursday, Oct 26th by 12:30/2:00 PM** (in class)
+**Written Questions Due: Thursday, Oct 31st by 12:30/2:00 PM** (in class)
 
 **Program Due: Tuesday, Oct 31st by 11:59 PM** Late assignments will be penalized 20 points per day.
 

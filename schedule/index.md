@@ -29,8 +29,8 @@ OP: [OpenGL: A Primer – 3rd Edition.](http://www.pearsonhighered.com/educator/
 > Oct 17   | **NO CLASS - Fall Break** | |
 > Oct 19   | [Lab 16: Scene Graphs](../labs/lab16.html) <br /> **Milestone 1 Due** |  | [CS370_Lab16.zip](../labs/src/CS370_Lab16.zip)
 > Oct 24   | [Lab 17: Alpha Blending](../labs/lab17.html) | OPG: Ch. 4 <br /> OP: Ch. 6.10 | [CS370_Lab17.zip](../labs/src/CS370_Lab17.zip)
-> Oct 26   | Exam Review <br /> **Assignment 3 Due** |  | 
-> Oct 31   | [Lab 18: Billboarding](../labs/lab18.html) |  | [CS370_Lab18.zip](../labs/src/CS370_Lab18.zip)
+> Oct 26   | [Lab 18: Billboarding](../labs/lab18.html) |  | [CS370_Lab18.zip](../labs/src/CS370_Lab18.zip)
+> Oct 31   | Exam Review <br /> **Assignment 3 Due** |  | 
 > Nov 2    | **EXAM II** | |
 > Nov 7    | [Lab 19: Texture Mapping](../labs/lab19.html) | OPG: Ch. 6 <br /> OP: Ch. 8 | [CS370_Lab19.zip](../labs/src/CS370_Lab19.zip)
 > Nov 9    | [Lab 20: Environment Mapping](../labs/lab20.html) |  | [CS370_Lab20.zip](../labs/src/CS370_Lab20.zip)

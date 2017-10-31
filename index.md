@@ -24,7 +24,7 @@ All information about the course will be posted here.
 * **Oct 3 - EXAM I**
 * **Oct 17** - NO CLASS - Fall Break.
 * **Oct 19** - [FINAL PROJECT](assign/project.html), Milestone 1 Demo.
-* **Oct 26/31** - [Assignment 3](assign/assign03.html) (Limelight) Due.
+* **Oct 31** - [Assignment 3](assign/assign03.html) (Limelight) Due.
 * **Nov 2 - EXAM II**
 * **Nov 21** - [FINAL PROJECT](assign/project.html), Milestone 2 Demo.
 * **Nov 23** - NO CLASS - Thanksgiving Break.
